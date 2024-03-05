@@ -5,6 +5,6 @@
 - 📫 How to reach me aadityamishra1063@gmail.com or linkedIn: https://www.linkedin.com/in/adityamishra2002
 
 <!---
-AadityaMishra10/AadityaMishra10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AdityaMishra/AdityaMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
