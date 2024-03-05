@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aaditya Mishra
+- 👋 Hi, I’m @Aditya Mishra
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python programming as well as c++ programming
-- 📫 How to reach me aadityamishra1063@gmail.com or linkedIn: https://www.linkedin.com/in/aaditya-mishra-22b68b201
+- 📫 How to reach me aadityamishra1063@gmail.com or linkedIn: https://www.linkedin.com/in/adityamishra2002
 
 <!---
 AadityaMishra10/AadityaMishra10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
